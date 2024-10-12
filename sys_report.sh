@@ -5,7 +5,7 @@ REPORT_FILE="system_report.txt"
 NAME="OKAFOR GOODNESS"
 
 # Slack webhook URL
-SLACK_WEBHOOK_URL="https://hooks.slack.com/services/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"
+
 
 # Create or clear the report file
 echo "Generating system report..." > "$REPORT_FILE"
